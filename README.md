@@ -1,2 +1,2 @@
-# all_school_projects
-all the school projects i worked on
+# school_projects
+school projects i worked on in the last two years. 
