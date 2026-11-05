@@ -1,0 +1,33 @@
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input {
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 400px;
+    height: 45px;
+    background-color: blanchedalmond;
+    margin-top: 10px;
+}
+
+.btn {
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 400px;
+    height: 45px;
+    background-color: blanchedalmond;
+    margin-top: 20px;
+}
+
+.back-btn {
+    background-color:#FAF3E0;
+    border: 1px solid black;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 10px;
+    height: 40px;
+    width: 75px;
+}

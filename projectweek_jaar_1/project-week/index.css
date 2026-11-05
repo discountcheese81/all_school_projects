@@ -1,0 +1,49 @@
+
+table {
+    border: 1px solid black;
+    width: 400px;
+    height: 250px;
+    border-collapse: collapse;
+}
+th, tr {
+    border: 1px solid black;
+}
+
+h1, h3, p {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+/*
+best css ever in existence yippyy -_-
+*/
+
+
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 20px;
+}
+
+.restaurant-image img {
+    width: 430px;
+    height: auto;
+    margin-left: 80px;
+}
+
+nav.login-container {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    background-color: blanchedalmond;
+    color: #4A2C2A;
+}
+
+nav.login-button {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+}

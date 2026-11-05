@@ -1,0 +1,13 @@
+table {
+    border: 1px solid black;
+    width: 100%;    
+}
+th {
+    border: 1px solid black;
+    background-color: lightgray;
+}
+
+td {
+    border: 1px solid black;
+}
+

@@ -1,0 +1,13 @@
+naam restaurant
+aantal tafels
+locatie
+soort eten
+timeslots (available times) [on halt, trying to figure out how to do it]
+open/closed times
+maximale aantal gasten
+id (auto-increment)
+aantal actieve reserveringen
+aantal resterende reservering
+
+smulexpress
+gewoonbroodje
